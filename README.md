@@ -98,5 +98,5 @@ total size is 3.1K  speedup is 9.09
 
 ## 📌 Author
 
-**Zeyad Bilal**  
-Bash Projects | GitHub: [your-username]
+**Abdelaziz Hassan**  
+Bash Projects | GitHub: [Abdel-3ziz]
